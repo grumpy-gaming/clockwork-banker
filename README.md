@@ -23,10 +23,10 @@ This software may cause:
 ## FAQ
 
 **Q: Is this better than my current farming method of "hope and pray"?**
-A: Significantly.
+- A: Significantly.
 
 **Q: What if I find a bug?**
-A: Congratulations! You've discovered a "surprise feature." Please report it so we can pretend it was intentional.
+- A: Congratulations! You've discovered a "surprise feature." Please report it so we can pretend it was intentional.
 
 ## Contributing
 
