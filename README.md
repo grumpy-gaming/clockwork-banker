@@ -50,7 +50,7 @@ For support, please:
 
 ## Disclaimer
 
-*Clockwork Banker is not responsible for any sudden urge to face Seru. Side effects may include: Better stats, reduceed casting, and the ability to actually defeat that Crushbone Orc (you all know his name). Please consult your friendly senior member before using if you have a history of impulse in alting.*
+*Clockwork Banker is not responsible for any sudden urge to face Seru. Side effects may include: Better stats, reduceed casting, and the ability to actually defeat that Crushbone Orc (you all know his name). Please consult your friendly senior member before using if you have a history or impulse in alting.*
 
 ---
 
