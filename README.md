@@ -17,7 +17,7 @@ Ever wondered what would happen if a Swiss watch had a baby with a bank vault? W
 
 This software may cause:
 - Sudden urges to check for upgrades every 5 minutes
-- Compulsive alting (is that a word?) behavior
+- Compulsive alting (is that a word?)
 - Uncontrollable excitement when finding the right piece of gear for your alt!
 
 ## FAQ
