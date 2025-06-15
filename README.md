@@ -1,4 +1,4 @@
-# 🏦 Clockwork Banker V. 2🕰️
+# 🏦 Clockwork Banker V.2 🕰️
 
 *"Making moves, one tick at a time"*
 
